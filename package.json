@@ -1,0 +1,11 @@
+{
+  "name": "fulizaboost",
+  "version": "1.0.0",
+  "description": "FulizaBoost - Instant Limit Increase with Megapay Integration",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
